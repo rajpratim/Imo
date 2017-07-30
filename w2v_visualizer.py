@@ -44,8 +44,11 @@ def visualize(model, output_path):
     projector.visualize_embeddings(writer, config)
     saver.save(sess, os.path.join(output_path,'w2x_metadata.ckpt'))
     print('Run `tensorboard --logdir={0}` to run visualize result on tensorboard'.format(output_path))
-    
+
 if __name__ == "__main__":
+    """
+    Just run `python w2v_visualizer.py word2vec.model visualize_result`
+    """
     try:
         model_path = sys.argv[1]
         output_path  = sys.argv[2]
