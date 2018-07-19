@@ -1,0 +1,12 @@
+https://robjhyndman.com/hyndsight/dailydata/
+http://rstatistics.net/time-series-analysis/
+https://www.linkedin.com/pulse/time-series-analysis-using-arima-model-r-subhasree-chatterjee
+https://www.analyticbridge.datasciencecentral.com/profiles/blogs/time-series-analysis-using-r-forecast-package
+https://www.otexts.org/fpp/6
+https://towardsdatascience.com/deep-learning-for-time-series-prediction-in-epidemiology-43ecbd6ad144
+https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/?utm_content=buffer3c04a&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+https://www.analyticsvidhya.com/blog/2015/12/complete-tutorial-time-series-modeling/?utm_content=buffer84d2e&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+https://www.datasciencecentral.com/profiles/blogs/selecting-forecasting-methods-in-data-science?utm_content=bufferd7dc8&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BGAiCsd2tTI6v1mbuFPatdg%3D%3D
+https://sites.google.com/site/econometricsacademy/econometrics-models/time-series-arima-models
+http://neuroph.sourceforge.net/TimeSeriesPredictionTutorial.html
